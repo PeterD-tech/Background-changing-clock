@@ -1,3 +1,18 @@
+body {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 4rem;
+  font-family: "Modak", cursive;
+  background-color: olive;
+}
 
+#title {
+  margin-top: 10vh;
+}
+
+#clock {
+  color: white;
+}
 
 /*# sourceMappingURL=styles.css.map */
